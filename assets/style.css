@@ -1,44 +1,65 @@
 body{
-    background-image: url("https://img.freepik.com/premium-photo/marble-wallpaper-that-is-green-gold-generative-ai_828075-392.jpg?w=1380");
-    border: solid;
-    color: white;
+    background-image: url("https://i.pinimg.com/736x/5b/ad/ad/5badad14977ea239bb62de2b593d0d33.jpg");
     background-size:contain;
-    background-position:10%;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-color: rgb(235, 207, 207);
+    /* background-position:10%;
     padding: 10%;
-    margin: 5%; 
+    margin: 5%;  */
 }
 
 h1{
     font-family:Arial, Helvetica, sans-serif;
     font-size: 80px;
-    color: rgb(127, 135, 119);
-    text-shadow: 10px 5px 6px rgb(95, 23, 13);
+    color:rgb(220, 15, 97);
+    text-shadow: -10px 0px 6px rgb(149, 111, 111);
     font-weight: bolder;
     text-align:center;
-    margin: auto;
-    border-style: solid;
+    margin: 2%;
+    padding-left: 50%;
+    border-style: inset;
+    border-width: thick;
 
 }
 
 h2{
-    color: rgb(102, 115, 28);
+    color: rgb(238, 234, 234);
     font-size: 50px;
-    text-shadow: 10px 10px 5px rgb(131, 30, 30);
-    text-align: center;
+    text-shadow: 10px 10px 5px rgb(203, 57, 57);
+    text-align: left;
     margin: 10%;
     box-shadow: inset 25px white;
 }
 
+p{
+    color: rgb(177, 23, 23);
+    text-shadow: 10px 10px 5px rgb(227, 87, 87);
+    text-align: left;
 
-.Primero{
-    height: auto;
 }
+
+
+/* .Emptybox1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+    display: inline-flex;
+    box-sizing: content-box;
+    width: 50%;
+    flex-direction: row-reverse;
+    box-shadow: inset -19px -20px 60px 4px #bbf4f7;
+    border-radius: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+    
+    
+} */
 
 img{
+    box-shadow: -7px 10px 18px 0px #ffffff;
     border-radius: 100%;
-    box-shadow:
-}
-.Sky{
+    align-items: right;
 
 
 }
