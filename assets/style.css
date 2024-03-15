@@ -1,23 +1,29 @@
 body{
-    background-image: url(https://e0.pxfuel.com/wallpapers/684/840/desktop-wallpaper-abstract-background.jpg);
-    background-size: cover;
-    background-position: 100%;
+    background-image: url("https://img.freepik.com/premium-photo/marble-wallpaper-that-is-green-gold-generative-ai_828075-392.jpg?w=1380");
+    border: solid;
+    color: white;
+    background-size:contain;
+    background-position:10%;
+    padding: 10%;
+    margin: 5%; 
 }
+
 h1{
     font-family:Arial, Helvetica, sans-serif;
     font-size: 80px;
-    color: rgb(230, 188, 22);
-    text-shadow: 5px 5px 1px rgb(71, 57, 57);
+    color: rgb(127, 135, 119);
+    text-shadow: 10px 5px 6px rgb(95, 23, 13);
     font-weight: bolder;
-    text-align: right;
+    text-align:center;
     margin: auto;
+    border-style: solid;
 
 }
 
 h2{
-    color: rgb(204, 55, 204);
+    color: rgb(102, 115, 28);
     font-size: 50px;
-    text-shadow: 10px 10px 5px rgb(150, 100, 100);
+    text-shadow: 10px 10px 5px rgb(131, 30, 30);
     text-align: center;
     margin: 10%;
     box-shadow: inset 25px white;
@@ -26,14 +32,13 @@ h2{
 
 .Primero{
     height: auto;
-
 }
 
 img{
     border-radius: 100%;
     box-shadow:
+}
+.Sky{
+
 
 }
-/* .Sky{
-
-} */
